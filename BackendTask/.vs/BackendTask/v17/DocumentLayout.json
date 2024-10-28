@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\backendtask\\data\\dataserviceinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|solutionrelative:backendtask\\data\\dataserviceinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|c:\\users\\lenovo\\onedrive\\\u0130\u015F masas\u0131\\task\\backendtask\\backendtask\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|solutionrelative:backendtask\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\backendtask\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|solutionrelative:backendtask\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\backendtask\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|solutionrelative:backendtask\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\backendtask\\data\\datacontext\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|solutionrelative:backendtask\\data\\datacontext\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\backendtask\\security\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|solutionrelative:backendtask\\security\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\backendtask\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|solutionrelative:backendtask\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\backendtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|solutionrelative:backendtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\backendtask\\commons\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|solutionrelative:backendtask\\commons\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\backendtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|solutionrelative:backendtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\backendtask\\security\\jwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|solutionrelative:backendtask\\security\\jwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\backendtask\\services\\abstracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|solutionrelative:backendtask\\services\\abstracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\backendtask\\services\\concretes\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|solutionrelative:backendtask\\services\\concretes\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\backendtask\\services\\concretes\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|solutionrelative:backendtask\\services\\concretes\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\backendtask\\services\\abstracts\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|solutionrelative:backendtask\\services\\abstracts\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\backendtask\\services\\abstracts\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|solutionrelative:backendtask\\services\\abstracts\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\backendtask\\services\\concretes\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|solutionrelative:backendtask\\services\\concretes\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\backendtask\\backendtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|solutionrelative:backendtask\\backendtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\backendtask\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|solutionrelative:backendtask\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\backendtask\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|solutionrelative:backendtask\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Migrations\\20241027133042_addedTaskDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E861227-1DDE-4F31-85B9-080ACC51C437}|BackendTask\\BackendTask.csproj|solutionrelative:BackendTask\\Migrations\\20241027133042_addedTaskDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "BackendTask\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "BackendTask\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:41:59.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataServiceInjection.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Data\\DataServiceInjection.cs",
+              "RelativeDocumentMoniker": "BackendTask\\Data\\DataServiceInjection.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Data\\DataServiceInjection.cs",
+              "RelativeToolTip": "BackendTask\\Data\\DataServiceInjection.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAADwvyYAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:20:48.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Security\\TokenHandler.cs",
+              "RelativeDocumentMoniker": "BackendTask\\Security\\TokenHandler.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Security\\TokenHandler.cs",
+              "RelativeToolTip": "BackendTask\\Security\\TokenHandler.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:25:56.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Data\\DataContext\\TaskContext.cs",
+              "RelativeDocumentMoniker": "BackendTask\\Data\\DataContext\\TaskContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Data\\DataContext\\TaskContext.cs",
+              "RelativeToolTip": "BackendTask\\Data\\DataContext\\TaskContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:23:41.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BackendTask\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BackendTask\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T14:36:09.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "BackendTask\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Entities\\User.cs",
+              "RelativeToolTip": "BackendTask\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:43:21.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BackendTask\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BackendTask\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:41:35.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Program.cs",
+              "RelativeDocumentMoniker": "BackendTask\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Program.cs",
+              "RelativeToolTip": "BackendTask\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:40:36.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Commons\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BackendTask\\Commons\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Commons\\BaseEntity.cs",
+              "RelativeToolTip": "BackendTask\\Commons\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:52:02.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\appsettings.json",
+              "RelativeDocumentMoniker": "BackendTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\appsettings.json",
+              "RelativeToolTip": "BackendTask\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-27T13:31:12.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JwtToken.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Security\\JwtToken.cs",
+              "RelativeDocumentMoniker": "BackendTask\\Security\\JwtToken.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Security\\JwtToken.cs",
+              "RelativeToolTip": "BackendTask\\Security\\JwtToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:24:48.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Services\\Abstracts\\IRepository.cs",
+              "RelativeDocumentMoniker": "BackendTask\\Services\\Abstracts\\IRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Services\\Abstracts\\IRepository.cs",
+              "RelativeToolTip": "BackendTask\\Services\\Abstracts\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:41:01.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Services\\Concretes\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BackendTask\\Services\\Concretes\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Services\\Concretes\\UserRepository.cs",
+              "RelativeToolTip": "BackendTask\\Services\\Concretes\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T14:36:49.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Services\\Abstracts\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "BackendTask\\Services\\Abstracts\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Services\\Abstracts\\IUserRepository.cs",
+              "RelativeToolTip": "BackendTask\\Services\\Abstracts\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T14:36:39.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Services\\Concretes\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "BackendTask\\Services\\Concretes\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Services\\Concretes\\CustomerRepository.cs",
+              "RelativeToolTip": "BackendTask\\Services\\Concretes\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:40:50.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Services\\Abstracts\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "BackendTask\\Services\\Abstracts\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Services\\Abstracts\\ICustomerRepository.cs",
+              "RelativeToolTip": "BackendTask\\Services\\Abstracts\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:40:34.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Services\\Concretes\\Repository.cs",
+              "RelativeDocumentMoniker": "BackendTask\\Services\\Concretes\\Repository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Services\\Concretes\\Repository.cs",
+              "RelativeToolTip": "BackendTask\\Services\\Concretes\\Repository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:41:10.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241027133042_addedTaskDB.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Migrations\\20241027133042_addedTaskDB.cs",
+              "RelativeDocumentMoniker": "BackendTask\\Migrations\\20241027133042_addedTaskDB.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Migrations\\20241027133042_addedTaskDB.cs",
+              "RelativeToolTip": "BackendTask\\Migrations\\20241027133042_addedTaskDB.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:30:43.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BackendTask",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\BackendTask.csproj",
+              "RelativeDocumentMoniker": "BackendTask\\BackendTask.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\BackendTask.csproj",
+              "RelativeToolTip": "BackendTask\\BackendTask.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-27T12:56:41.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "BackendTask\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\Entities\\Customer.cs",
+              "RelativeToolTip": "BackendTask\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:46:03.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "BackendTask\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\\u0130\u015F masas\u0131\\Task\\BackendTask\\BackendTask\\WeatherForecast.cs",
+              "RelativeToolTip": "BackendTask\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:40:33.941Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
